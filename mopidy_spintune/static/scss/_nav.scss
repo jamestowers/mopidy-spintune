@@ -1,0 +1,22 @@
+nav{
+  &#main-nav{
+    background:$grey7;
+    height:100%;
+    li{
+      border-bottom: 1px solid $grey5;
+    }
+    a{
+      color:$white;
+      padding: 20px 10px;
+      display: block;
+      text-transform: uppercase;
+      transition: background 0.2s ease-out;
+      &:before{
+        margin-right:10px;
+      }
+      &:hover{
+        background:$grey5;  
+      }
+    }
+  }
+}

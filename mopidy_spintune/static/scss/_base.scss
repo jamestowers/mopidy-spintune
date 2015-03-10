@@ -1,0 +1,54 @@
+@import "type";
+@import "layout";
+@import "nav";
+
+
+html,
+body{
+  height:100%;
+}
+body{
+  background: $grey1;
+}
+
+header{
+  background:$grey5;
+  color:$white;
+  padding: 10px;
+  position: fixed;
+  top:0;
+  width:100%;
+  left:0;
+  height:40px;
+  #logo{
+    float: left;
+  }
+}
+#main{
+  margin-top:$header-height;
+  height: calc( 100% - 90px );
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.content{
+  height:100%;
+  overflow: auto;
+}
+footer{
+  background:$grey7;
+  color:$white;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  left:0;
+  width:100%;
+  height:$footer-height;
+}
+#search-form{
+  input[name="search"]{
+    border-radius: 20px;
+    border: none;
+  }
+}

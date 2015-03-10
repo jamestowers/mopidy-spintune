@@ -1,0 +1,2521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onclick",
+				"onclick=\"return"
+			],
+			[
+				"lib",
+				"libraries"
+			],
+			[
+				"selected",
+				"selectedTrack"
+			],
+			[
+				"result",
+				"resultArr"
+			],
+			[
+				"tr",
+				"track"
+			],
+			[
+				"resu",
+				"resultArr"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"proce",
+				"processTracks"
+			],
+			[
+				"brand",
+				"brand-secondary"
+			],
+			[
+				"suport",
+				"supportActId"
+			],
+			[
+				"ovl",
+				"ovlOpening"
+			],
+			[
+				"list",
+				"listopts"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"sele",
+				"selectLabel"
+			],
+			[
+				"grey",
+				"grey-8"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tig",
+				"tigPlayer"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"clic",
+				"clickPc"
+			],
+			[
+				"sound",
+				"soundmanager"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"whil",
+				"whilePlaying"
+			],
+			[
+				"while",
+				"whileloading"
+			],
+			[
+				"pl",
+				"playState"
+			],
+			[
+				"current",
+				"currentSound"
+			],
+			[
+				"sou",
+				"sounds"
+			],
+			[
+				"tran",
+				"translateY"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"enco",
+				"encodeValues"
+			],
+			[
+				"en",
+				"encodeValues"
+			],
+			[
+				"range",
+				"rangeValues"
+			],
+			[
+				"curr",
+				"currentNextLink"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"input",
+				"inputElement"
+			],
+			[
+				"set",
+				"setMap"
+			],
+			[
+				"adress",
+				"address"
+			],
+			[
+				"map",
+				"mapElement"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"address",
+				"address_components"
+			],
+			[
+				"place",
+				"placeComponents"
+			],
+			[
+				"gmap",
+				"gmapContext"
+			],
+			[
+				"location",
+				"locationName"
+			],
+			[
+				"street",
+				"streetNumber"
+			],
+			[
+				"post",
+				"postal_code"
+			],
+			[
+				"r",
+				"red"
+			],
+			[
+				"translt",
+				"translateY"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"fieldset"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"we",
+				"-webkit-appearance:   (property)"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"ite",
+				"item_ids"
+			],
+			[
+				"stripe",
+				"stripe_order_id"
+			],
+			[
+				"address_delivery_line",
+				"address_delivery_line_1"
+			],
+			[
+				"email",
+				"email_message"
+			],
+			[
+				"empty",
+				"emptyBasket"
+			],
+			[
+				"is_",
+				"is_ajax_request"
+			],
+			[
+				"customer",
+				"customer_info"
+			],
+			[
+				"cust",
+				"customer_info"
+			],
+			[
+				"bill",
+				"billing_same_as_delivery"
+			],
+			[
+				"ord",
+				"order_items"
+			],
+			[
+				"all",
+				"allMods"
+			],
+			[
+				"las",
+				"latestKnownScrollY"
+			],
+			[
+				"chek",
+				"checkWidths"
+			],
+			[
+				"save",
+				"saveBasket"
+			],
+			[
+				"already",
+				"alreadyInBasket"
+			],
+			[
+				"ori",
+				"originalText"
+			],
+			[
+				"or",
+				"originalText"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"new",
+				"new_post_id"
+			],
+			[
+				"attach",
+				"attachment_url"
+			],
+			[
+				"request",
+				"requestTick"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"relate",
+				"related_posts"
+			],
+			[
+				"tag",
+				"tag_arr"
+			],
+			[
+				"ca",
+				"category_link"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"image-t",
+				"image-tablet"
+			],
+			[
+				"image-mob",
+				"image-mobile-retina"
+			],
+			[
+				"booked_",
+				"booked_state"
+			],
+			[
+				"addres",
+				"address_two"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"marker",
+				"marker_icon"
+			],
+			[
+				"get_b",
+				"get_bloginfo"
+			],
+			[
+				"bride",
+				"brideOrGroom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"translat",
+				"translateY"
+			],
+			[
+				"the",
+				"the_query"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"get_p",
+				"get_permalink"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"de",
+				"decimal"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"scroll",
+				"scrollHeight"
+			],
+			[
+				"is",
+				"is_mobile"
+			],
+			[
+				"hei",
+				"headerHeight"
+			],
+			[
+				"b",
+				"browser_width  (variable)"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"panel",
+				"panelSnap"
+			],
+			[
+				"toggle",
+				"toggleVideoInfo"
+			],
+			[
+				"video",
+				"videoWaiting"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"dispay",
+				"display"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"go",
+				"goToStep"
+			],
+			[
+				"search",
+				"searchresults"
+			],
+			[
+				"disp",
+				"display:block"
+			],
+			[
+				"grey-",
+				"grey-3"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"Name",
+				"month_names"
+			],
+			[
+				"entity",
+				"entity_id"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height:   (property)"
+			],
+			[
+				"backgrouns",
+				"background-position"
+			],
+			[
+				"pop",
+				"popover"
+			],
+			[
+				"border-left-",
+				"border-left-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "static/coffee/spintune.coffee",
+			"settings":
+			{
+				"buffer_size": 3618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/coffee/playlist.coffee",
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/index.html",
+			"settings":
+			{
+				"buffer_size": 2650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/scss/_nav.scss",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/process_ws.js",
+			"settings":
+			{
+				"buffer_size": 8735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/controls.js",
+			"settings":
+			{
+				"buffer_size": 15447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/library.js",
+			"settings":
+			{
+				"buffer_size": 11218,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/scss/styles.scss",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/scss/_icons.scss",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/scss/_variables.scss",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/coffee/app.coffee",
+		"/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/library.js",
+		"/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/controls.js",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/index.html",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/scss/_base.scss",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/scss/_layout.scss",
+		"/Users/jamestowers/mopidy-spintune/mopidy_spintune/static/scss/_type.scss",
+		"/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/index.html",
+		"/Applications/MAMP/htdocs/spintune/assets/javascripts/dots.js",
+		"/Applications/MAMP/htdocs/spintune/assets/javascripts/dots.js.coffee",
+		"/Applications/MAMP/htdocs/shakeyface/app/composer.json",
+		"/Applications/MAMP/htdocs/shakeyface/app/app.php",
+		"/Applications/MAMP/htdocs/tigmus/app/views/application/_stripe.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_variables.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/stripe.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/forms.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/show.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/venue.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_shows.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_tigmus-icons.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_layout.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/general.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/_show_box.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_header.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/users/_header.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/search.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_venues.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_481up.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/show.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_grid.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/style.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_base.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/application/_nav.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_768up.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/_form.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/_form_bottom.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_992up.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/_form_top.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_typography.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_forms.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_1200up.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_1640up.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/_form_top.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/_form_bottom.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/google_maps.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/_results.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_user.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/list.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/_search_results.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/list_print_ready.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/test/factories/transactions.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/pages/page.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/controllers/shows_controller.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_bootstrap-goodies.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/edit.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/new.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/google_maps_search.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/home/index.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_hero.scss",
+		"/Applications/MAMP/htdocs/tigmus/vendor/assets/stylesheets/bootstrap/_variables.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/new.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/edit.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/config/routes.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/host_mailer/venue_request.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/layouts/mailer.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/application/_mailer_button.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/mailers/host_mailer.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/mailers/artist_mailer.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/mailers/application_mailer.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/models/show.rb",
+		"/Applications/MAMP/htdocs/songdroprb/app/views/mailer/_button.html.erb",
+		"/Applications/MAMP/htdocs/songdroprb/app/views/marketing_mailer/not_dropped.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artist_invitations/_hacky_form.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/show.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/users/events.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/confirm.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/vendor/assets/stylesheets/bootstrap/_buttons.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/application.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/layouts/application.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/stylesheets/application/_mixins.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artist_invitations/new.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artist_invitations/_form.html.erb",
+		"/Applications/MAMP/htdocs/cult/wp-content/themes/cultldn/library/coffee/cult.coffee",
+		"/Applications/MAMP/htdocs/tigmus/vendor/assets/stylesheets/bootstrap/_forms.scss",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/_form.html.erb",
+		"/Applications/MAMP/htdocs/songdroprb/app/views/layouts/application.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/index.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/index.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/_search_filter.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/search.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/audio.coffee",
+		"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application/player/soundmanager.js.coffee",
+		"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application/player/player.js.coffee",
+		"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application/player/track.js.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/_debug_figures.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/audio.soundmanager.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application.js",
+		"/Applications/MAMP/htdocs/tigmus/features/step_definitions/show/create_show_steps.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/shows/new.html.erb",
+		"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application/search.js.coffee",
+		"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application/buttons.js.coffee",
+		"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application/interactions.js.coffee",
+		"/Applications/MAMP/htdocs/tigmus/app/views/application/_hero_photos.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/layouts/mailer.text.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/application/_hero_picture_tag.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/transactions/_failure.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/transactions/_success.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/assets/javascripts/application/images.coffee.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/transactions/show.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/models/user.rb",
+		"/Applications/MAMP/htdocs/tigmus/features/venues/search.feature",
+		"/Applications/MAMP/htdocs/tigmus/features/step_definitions/venue/search_venue_steps.rb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/artists/show.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/application/_footer.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/vendor/assets/javascripts/locationpicker.jquery.js",
+		"/Users/jamestowers/Desktop/wp-config.php",
+		"/Applications/MAMP/htdocs/tigmus/vendor/assets/stylesheets/bootstrap-timepicker.css",
+		"/Applications/MAMP/htdocs/tigmus/app/views/clearance_mailer/change_password.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/vendor/assets/javascripts/locationpicker.jquery.coffee",
+		"/Applications/MAMP/htdocs/tigmus/features/step_definitions/venue/create_venue_steps.rb",
+		"/Applications/MAMP/htdocs/tigmus/features/venues/create_venue.feature",
+		"/Applications/MAMP/htdocs/tigmus/app/views/venues/edit.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/users/show.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/users/artists.html.erb",
+		"/Applications/MAMP/htdocs/tigmus/app/views/users/shows.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"<open files>,<open folders>",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"<open folders>",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application,/Applications/MAMP/htdocs/songdroprb/app/views",
+			"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application,/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application",
+			"/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application",
+			"<open files>,/Applications/MAMP/htdocs/songdroprb/app/assets/javascripts/application",
+			"<open files>",
+			"",
+			"<open folders>",
+			"/Applications/MAMP/htdocs/songdroprb/app/views/application,/Applications/MAMP/htdocs/songdroprb/app/views/artists,/Applications/MAMP/htdocs/songdroprb/app/views/drops,/Applications/MAMP/htdocs/songdroprb/app/views/info,/Applications/MAMP/htdocs/songdroprb/app/views/intro,/Applications/MAMP/htdocs/songdroprb/app/views/layouts,/Applications/MAMP/htdocs/songdroprb/app/views/mixes,/Applications/MAMP/htdocs/songdroprb/app/views/passwords,/Applications/MAMP/htdocs/songdroprb/app/views/plays,/Applications/MAMP/htdocs/songdroprb/app/views/search,/Applications/MAMP/htdocs/songdroprb/app/views/sessions,/Applications/MAMP/htdocs/songdroprb/app/views/settings,/Applications/MAMP/htdocs/songdroprb/app/views/shares,/Applications/MAMP/htdocs/songdroprb/app/views/songs,/Applications/MAMP/htdocs/songdroprb/app/views/taggings,/Applications/MAMP/htdocs/songdroprb/app/views/users",
+			"/Applications/MAMP/htdocs/songdroprb/app/views",
+			"<open files>",
+			"",
+			"<open files>",
+			"/Applications/MAMP/htdocs/songdroprb/app/views/mailer,<open folders>",
+			"/Applications/MAMP/htdocs/songdroprb/app/views/mailer",
+			"/Applications/MAMP/htdocs/songdroprb/app/views/mailer/_about_user.html.erb",
+			"/Applications/MAMP/htdocs/songdroprb/app/views",
+			"<open files>",
+			"/Applications/MAMP/htdocs/songdroprb/app",
+			"<open folders>",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"st.",
+			"getTracks",
+			"getTRacks",
+			"isStream",
+			"url",
+			"processBrowse",
+			"color",
+			"amount",
+			"iconlarge",
+			"&lt",
+			"&gt",
+			">",
+			"<",
+			"&rt",
+			">",
+			"<",
+			"upload",
+			"disabled",
+			"diabled",
+			"disbaled",
+			"'\n",
+			"datepicker",
+			"showProcessing",
+			"date",
+			"8",
+			"select",
+			"dropdown",
+			"select",
+			"date",
+			"com",
+			"date",
+			"type=\"date\"",
+			"date",
+			"data",
+			"disabled",
+			"$(this)",
+			"stop",
+			"clearIntervals",
+			"clear",
+			"seek",
+			"@sound",
+			"currentTrack",
+			"sdplayer",
+			"Audio.SoundManager",
+			"sdplayer",
+			"sdplayerg",
+			"sdplayer",
+			"Player.SoundManager",
+			"disabled",
+			"key",
+			"location-shower",
+			"setupInputListenersInput",
+			"inputBi",
+			"GMapContext",
+			"result",
+			"results",
+			"address_component_from_google_geocode",
+			"marker",
+			"address_component_from_google_geocode",
+			"venueName",
+			"addMarker",
+			"formatted_address",
+			"locationName",
+			"venueName",
+			"updateInputValues",
+			"place",
+			"pac",
+			"console.log",
+			"locationNa",
+			"locationName",
+			"GMapContext",
+			"address_component_from_google_geocode",
+			"geocode",
+			"checkbox",
+			"show-details",
+			"show-item",
+			"venue.initialize_location_picker",
+			"prev",
+			"$(document)",
+			"last",
+			"searchInit",
+			"textarea",
+			"weight-light",
+			"<bold>Features</bold>",
+			"fat",
+			"photo",
+			"form-control",
+			"inputVenueAvailWeekday",
+			"close",
+			"url('./fonts/",
+			"$grey-G",
+			"$grey-6",
+			"$grey-7",
+			"$grey-6",
+			"$grey-7",
+			"$font-dark",
+			"show-details",
+			"2015",
+			"col-sm-4 no-hpad",
+			"col-sm-8 no-hpad",
+			" pct",
+			"col-sm-3",
+			"$grey-5est",
+			"$light-grey",
+			"$grey-7",
+			"$grey-5er",
+			"$grey-light",
+			"$grey-dark",
+			"$grey-dark:",
+			"$grey-darker",
+			"$grey-base",
+			"$gray",
+			"$whyte",
+			"$white",
+			"$gray",
+			"font-family-sans-serif",
+			"1000px",
+			"quote",
+			"related",
+			"full-height",
+			"shouldLoadJavascript",
+			"design-thumb",
+			"rugs",
+			"ajax",
+			"load",
+			"infid",
+			"smartscroll",
+			"handler"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"player.",
+			"&lt;",
+			"&gt;",
+			"&gt",
+			"showLoading",
+			"@currentSound",
+			"tigPlayer",
+			"Player.SoundManager",
+			"Audio.SoundManager",
+			"location-map",
+			"gallery-item-details",
+			"gallery-item",
+			"searchResultsMap",
+			"<h4>Features</h4>",
+			"",
+			"font-url('",
+			"$grey-6",
+			"$grey-7",
+			"$grey-G",
+			"$grey-7",
+			"$grey-67",
+			"$grey-3",
+			"show-details clearfix",
+			"15",
+			"col4",
+			"col8",
+			"%",
+			"col3",
+			"$grey-6",
+			"$grey-7",
+			"$grey-8",
+			"$grey-6",
+			"$grey-5",
+			"$grey-3",
+			"$grey-2",
+			"$grey-1",
+			"$grey",
+			"$white",
+			"$grey",
+			"font-body",
+			"step",
+			"<?php admin_url(); ?>",
+			"<?php admin_url( 'admin.php?page=orders' ); ?>",
+			"<?php admin_url( admin.php?page=orders); ?>?",
+			"customer_details_",
+			"customer_details_meta_box",
+			"FuturaStd-Light",
+			"silkavenue",
+			"FuturaStd-CondensedLight",
+			"/wp-content/themes/silkavenue/library/fonts",
+			"site",
+			"echo get_bloginfo",
+			".../fonts/FuturaStd-",
+			"$grey5",
+			"dsri",
+			"",
+			"mark_as_booked",
+			"brideOrGroom",
+			"show_on_reel",
+			"'show_on_reel'",
+			"get_soundcloud_id_from_embed",
+			"get_youtube_id_from_url",
+			".top-nav",
+			"main-nav",
+			"<h1 class=\"page-title\">",
+			"color1",
+			"SESSION",
+			"",
+			"SESSION",
+			"varopartners.com",
+			"$color2",
+			"$color1",
+			"canvas",
+			"jQuery",
+			"../../fonts/gotham",
+			"../fonts/gotham",
+			"jQuery(",
+			"$",
+			"$thumbs",
+			"@",
+			"Std-Demi",
+			"fonts/gotham-",
+			"fonts/",
+			"console.log \"[Tour] (\"+@data.name+\")",
+			"50% {opacity: 0.4;}",
+			"'signup: intro'",
+			"nextBtn",
+			"getSelectedMixes",
+			"dropper.redropOpen",
+			"dropper.closeDropper",
+			"functions.showLoader(",
+			"functions.hideLoader(",
+			"icon-check",
+			"search-form",
+			"dropper.showDropEditRow",
+			"dropper.hideDropEditRow",
+			"hideDropEditRow",
+			"showDropEditRow",
+			"<div class=\"switch\" data-checked=\"<%= t 'form.checked' %>\" data-unchecked=\"<%= t 'form.unchecked' %>\"></div>",
+			"functions.trackEvent(",
+			"on",
+			"stepToProceedAction",
+			"stepToProceedTarget",
+			"clearTimeout(functions.toolTipTimer)",
+			"containerPos",
+			"container",
+			"onStepFinished",
+			"@state",
+			"@setState",
+			"popOverWidth",
+			"popOverHeight",
+			"@tagging",
+			"<%= body_font %>",
+			"<%= font_color %>",
+			"<%= blue %>",
+			"51A8B7",
+			"user",
+			"like",
+			"@popular_drop",
+			"em",
+			"switch"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "static/coffee/spintune.coffee",
+					"settings":
+					{
+						"buffer_size": 3618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2539,
+								2539
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 746.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/coffee/playlist.coffee",
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								601
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/index.html",
+					"settings":
+					{
+						"buffer_size": 2650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								994
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/scss/_nav.scss",
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/process_ws.js",
+					"settings":
+					{
+						"buffer_size": 8735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2823,
+								2823
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 950.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/controls.js",
+					"settings":
+					{
+						"buffer_size": 15447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1364.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/jamestowers/Mopidy-MusicBox-Webclient/mopidy_spintune/static/js/library.js",
+					"settings":
+					{
+						"buffer_size": 11218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nav",
+				"scss/_nav.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"icons",
+				"css/icons.css"
+			],
+			[
+				"base",
+				"scss/_base.scss"
+			],
+			[
+				"app",
+				"coffee/app.coffee"
+			],
+			[
+				"var",
+				"scss/_variables.scss"
+			],
+			[
+				"dots",
+				"assets/javascripts/dots.js"
+			],
+			[
+				"stripco",
+				"assets/javascripts/application/stripe.coffee"
+			],
+			[
+				"shows",
+				"assets/stylesheets/application/_shows.scss"
+			],
+			[
+				"venuescss",
+				"assets/stylesheets/application/_venues.scss"
+			],
+			[
+				"stript",
+				"views/application/_stripe.html.erb"
+			],
+			[
+				"venueco",
+				"assets/javascripts/application/venue.coffee"
+			],
+			[
+				"showshow",
+				"views/shows/show.html.erb"
+			],
+			[
+				"layout",
+				"assets/stylesheets/application/_layout.scss"
+			],
+			[
+				"show",
+				"assets/stylesheets/application/_shows.scss"
+			],
+			[
+				"forms",
+				"assets/javascripts/application/forms.coffee"
+			],
+			[
+				"general",
+				"assets/javascripts/application/general.coffee"
+			],
+			[
+				"strip",
+				"assets/javascripts/application/stripe.coffee"
+			],
+			[
+				"variabl",
+				"assets/stylesheets/application/_variables.scss"
+			],
+			[
+				"tig",
+				"assets/stylesheets/application/_tigmus-icons.scss"
+			],
+			[
+				"showbo",
+				"views/shows/_show_box.html.erb"
+			],
+			[
+				"grid",
+				"assets/stylesheets/application/_grid.scss"
+			],
+			[
+				"4",
+				"assets/stylesheets/application/_481up.scss"
+			],
+			[
+				"style",
+				"assets/stylesheets/application/style.scss"
+			],
+			[
+				"venushow",
+				"views/venues/show.html.erb"
+			],
+			[
+				"header",
+				"assets/stylesheets/application/_header.scss"
+			],
+			[
+				"search",
+				"views/venues/search.html.erb"
+			],
+			[
+				"showbox",
+				"views/shows/_show_box.html.erb"
+			],
+			[
+				"showscss",
+				"assets/stylesheets/application/_shows.scss"
+			],
+			[
+				"venueshow",
+				"views/venues/show.html.erb"
+			],
+			[
+				"venueformbott",
+				"views/venues/_form_bottom.html.erb"
+			],
+			[
+				"showsform",
+				"views/shows/_form.html.erb"
+			],
+			[
+				"768",
+				"assets/stylesheets/application/_768up.scss"
+			],
+			[
+				"gener",
+				"assets/javascripts/application/general.coffee"
+			],
+			[
+				"16",
+				"assets/stylesheets/application/_1640up.scss"
+			],
+			[
+				"12",
+				"assets/stylesheets/application/_1200up.scss"
+			],
+			[
+				"992",
+				"assets/stylesheets/application/_992up.scss"
+			],
+			[
+				"typo",
+				"assets/stylesheets/application/_typography.scss"
+			],
+			[
+				"venuesh",
+				"views/venues/show.html.erb"
+			],
+			[
+				"google",
+				"assets/javascripts/application/google_maps.coffee"
+			],
+			[
+				"genera",
+				"assets/javascripts/application/general.coffee"
+			],
+			[
+				"481",
+				"assets/stylesheets/application/_481up.scss"
+			],
+			[
+				"9",
+				"assets/stylesheets/application/_992up.scss"
+			],
+			[
+				"tigmu",
+				"assets/stylesheets/application/_tigmus-icons.scss"
+			],
+			[
+				"tra",
+				"test/factories/transactions.rb"
+			],
+			[
+				"boot",
+				"assets/stylesheets/application/_bootstrap-goodies.scss"
+			],
+			[
+				"layou",
+				"assets/stylesheets/application/_layout.scss"
+			],
+			[
+				"venuene",
+				"views/venues/new.html.erb"
+			],
+			[
+				"showsh",
+				"views/shows/show.html.erb"
+			],
+			[
+				"index",
+				"views/home/index.html.erb"
+			],
+			[
+				"vara",
+				"bootstrap/_variables.scss"
+			],
+			[
+				"99",
+				"assets/stylesheets/application/_992up.scss"
+			],
+			[
+				"showb",
+				"views/shows/_show_box.html.erb"
+			],
+			[
+				"searchre",
+				"views/shows/_search_results.html.erb"
+			],
+			[
+				"hero",
+				"assets/stylesheets/application/_hero.scss"
+			],
+			[
+				"showsho",
+				"views/shows/show.html.erb"
+			],
+			[
+				"formscoff",
+				"assets/javascripts/application/forms.coffee"
+			],
+			[
+				"form",
+				"assets/stylesheets/application/_forms.scss"
+			],
+			[
+				"artistform",
+				"views/artists/_form.html.erb"
+			],
+			[
+				"variab",
+				"assets/stylesheets/application/_variables.scss"
+			],
+			[
+				"10",
+				"assets/stylesheets/application/_1200up.scss"
+			],
+			[
+				"76",
+				"assets/stylesheets/application/_768up.scss"
+			],
+			[
+				"showfor",
+				"views/shows/_form.html.erb"
+			],
+			[
+				"hack",
+				"views/artist_invitations/_hacky_form.html.erb"
+			],
+			[
+				"showcoff",
+				"assets/javascripts/application/show.coffee"
+			],
+			[
+				"but",
+				"bootstrap/_buttons.scss"
+			],
+			[
+				"applicat",
+				"assets/javascripts/application/application.coffee"
+			],
+			[
+				"show.c",
+				"assets/javascripts/application/show.coffee"
+			],
+			[
+				"mixin",
+				"assets/stylesheets/application/_mixins.scss"
+			],
+			[
+				"tigmus",
+				"assets/stylesheets/application/_tigmus-icons.scss"
+			],
+			[
+				"application",
+				"views/layouts/application.html.erb"
+			],
+			[
+				"googlemap",
+				"assets/javascripts/application/google_maps.coffee"
+			],
+			[
+				"bootstr",
+				"assets/stylesheets/application/_bootstrap-goodies.scss"
+			],
+			[
+				"showsind",
+				"views/shows/index.html.erb"
+			],
+			[
+				"stripe",
+				"assets/javascripts/application/stripe.coffee"
+			],
+			[
+				"googlem",
+				"assets/javascripts/application/google_maps.coffee"
+			],
+			[
+				"searc",
+				"views/venues/search.html.erb"
+			],
+			[
+				"showindex",
+				"views/shows/index.html.erb"
+			],
+			[
+				"venue",
+				"views/venues/show.html.erb"
+			],
+			[
+				"ty",
+				"assets/stylesheets/application/_typography.scss"
+			],
+			[
+				"sho",
+				"assets/stylesheets/application/_shows.scss"
+			],
+			[
+				"applica",
+				"assets/javascripts/application/application.coffee"
+			],
+			[
+				"debi",
+				"views/shows/_debug_figures.html.erb"
+			],
+			[
+				"sound",
+				"assets/javascripts/application/audio.soundmanager.coffee"
+			],
+			[
+				"audo",
+				"assets/javascripts/application/audio.coffee"
+			],
+			[
+				"soundm",
+				"assets/javascripts/application/audio.soundmanager.coffee"
+			],
+			[
+				"soundman",
+				"assets/javascripts/application/audio.soundmanager.coffee"
+			],
+			[
+				"appl",
+				"assets/javascripts/application/application.coffee"
+			],
+			[
+				"audi",
+				"assets/javascripts/application/audio.coffee"
+			],
+			[
+				"showco",
+				"assets/javascripts/application/show.coffee"
+			],
+			[
+				"for",
+				"assets/stylesheets/application/_forms.scss"
+			],
+			[
+				"appli",
+				"views/layouts/application.html.erb"
+			],
+			[
+				"mix",
+				"assets/stylesheets/application/_mixins.scss"
+			],
+			[
+				"applicatio",
+				"assets/javascripts/application/application.coffee"
+			],
+			[
+				"pplac",
+				"assets/javascripts/application/application.coffee"
+			],
+			[
+				"layoit",
+				"views/layouts/mailer.text.erb"
+			],
+			[
+				"venuesho",
+				"views/venues/show.html.erb"
+			],
+			[
+				"varia",
+				"assets/stylesheets/application/_variables.scss"
+			],
+			[
+				"typog",
+				"assets/stylesheets/application/_typography.scss"
+			],
+			[
+				"showssho",
+				"views/shows/show.html.erb"
+			],
+			[
+				"la",
+				"assets/stylesheets/application/_layout.scss"
+			],
+			[
+				"showedit",
+				"views/shows/edit.html.erb"
+			],
+			[
+				"artist",
+				"views/artists/show.html.erb"
+			],
+			[
+				"res",
+				"views/venues/_results.html.erb"
+			],
+			[
+				"resu",
+				"views/venues/_results.html.erb"
+			],
+			[
+				"venuenew",
+				"views/venues/new.html.erb"
+			],
+			[
+				"applic",
+				"assets/javascripts/application.js"
+			],
+			[
+				"result",
+				"views/venues/_results.html.erb"
+			],
+			[
+				"googl",
+				"assets/javascripts/application/google_maps.coffee"
+			],
+			[
+				"artistshow",
+				"views/artists/show.html.erb"
+			],
+			[
+				"searcdh",
+				"views/clearance_mailer/change_password.html.erb"
+			],
+			[
+				"resul",
+				"views/venues/_results.html.erb"
+			],
+			[
+				"edit",
+				"views/venues/edit.html.erb"
+			],
+			[
+				"variables",
+				"bootstrap/_variables.scss"
+			],
+			[
+				"vari",
+				"assets/stylesheets/application/_variables.scss"
+			],
+			[
+				"typ",
+				"assets/stylesheets/application/_typography.scss"
+			],
+			[
+				"fomr",
+				"features/step_definitions/homepage_steps.rb"
+			],
+			[
+				"boo",
+				"assets/stylesheets/application/_bootstrap-goodies.scss"
+			],
+			[
+				"tigm",
+				"assets/stylesheets/application/_tigmus-icons.scss"
+			],
+			[
+				"mixi",
+				"assets/stylesheets/application/_mixins.scss"
+			],
+			[
+				"sty",
+				"assets/stylesheets/application/style.css.scss"
+			],
+			[
+				"home",
+				"silkavenue/page-home.php"
+			],
+			[
+				"page",
+				"silkavenue/page.php"
+			],
+			[
+				"single",
+				"silkavenue/single-rugs.php"
+			],
+			[
+				"function",
+				"silkavenue/functions.php"
+			],
+			[
+				"script",
+				"silkavenue/library/coffee/scripts.coffee"
+			],
+			[
+				"rug",
+				"silkavenue/_rug-type-thumbs.php"
+			],
+			[
+				"design",
+				"silkavenue/page-design-categories.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jamestowers/Library/Application Support/Sublime Text 2/Projects/tigmus.sublime-project"
+			],
+			[
+				"bear",
+				"/Users/jamestowers/Library/Application Support/Sublime Text 2/Projects/bear-or-steve.sublime-project"
+			],
+			[
+				"var",
+				"/Users/jamestowers/Library/Application Support/Sublime Text 2/Projects/Varo/varo.sublime-project"
+			],
+			[
+				"mother",
+				"/Users/jamestowers/Library/Application Support/Sublime Text 2/Projects/motherclucker.sublime-project"
+			],
+			[
+				"be",
+				"/Applications/MAMP/htdocs/bemindful/bemindful.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
